@@ -5,7 +5,7 @@
 
 # React Firebase Firestore
 
-Easily Render from your firestore database in your react(-native) app.
+Easily render data from your firestore database in your react(-native) app.
 
 React Firestore provides the following components :
 
