@@ -1,3 +1,10 @@
+## Docs moved to : https://react-firebase-js.com/docs/react-firestore-database/getting-started
+
+## Source code moved to : https://github.com/rakannimer/react-firebase/
+
+## Package moved to : `@react-firebase/firestore`
+
+
 - [React Firebase Firestore](#react-firebase-firestore)
     - [Usage](#usage)
     - [Example](#example)
